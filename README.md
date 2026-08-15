@@ -50,7 +50,6 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/lochanftw/lochanftw/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/lochanftw/lochanftw/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1&custom_title=lil%20stats" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/lochanftw/lochanftw/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false&custom_title=Its%20the%20vibe%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
