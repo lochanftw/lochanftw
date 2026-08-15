@@ -49,7 +49,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/lochanftw/lochanftw/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/lochanftw/lochanftw/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false&custom_title=Its%20the%20vibe%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
